@@ -5,7 +5,7 @@ This repository contains all tasks completed as part of the ShadowFox AIML Inter
 ## Tasks Completed
 - Beginner Level: Boston House Price Prediction
 - Intermediate Level: Car Price Prediction
-- Advanced Level: Language Model Analysis (NLP)
+
 
 ## Tools Used
 Python, Machine Learning, Scikit-learn, Transformers, Streamlit
